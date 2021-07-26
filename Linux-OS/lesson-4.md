@@ -28,3 +28,6 @@
 
 ##### 8) remove permission (5 means give only permission 1 and 4 =5 )
      chmod 577 simple.sh  
+     
+##### 9) give permission to your folder (-R means recursive it will give permission all files inside your folder)
+     chmod 777 -R foldername  
