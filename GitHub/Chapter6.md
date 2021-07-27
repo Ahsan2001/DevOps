@@ -207,7 +207,7 @@ Foldable text:
 
 ```html
 <h3>HTML</h3>
-<p> Some HTML code here </p>
+<p> Some HTML code is here </p>
 ```
 
 Link to a specific part of the page:
