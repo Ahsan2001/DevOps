@@ -9,4 +9,4 @@
      docker image ls
      
 #### 4) Removing Image  
-     docker image rm alpine:latest
+     docker image rm alpine
