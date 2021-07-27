@@ -9,12 +9,10 @@
               3. Whether there are files staged, unstaged or untracked
               4. Whether there are files created, modified or deleted
 
-### Terminal Coammands
+### Terminal Coammand
 
 	git status
-	
 	git log
-	
 	
 	
 ## 2) Git Clone
