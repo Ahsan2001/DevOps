@@ -8,12 +8,9 @@
      git add <file-name>
      
      
-     
 #### 2) To add Everything at Once:
 
      git add -A  (OR)  git add .
-     
-     
      
 #### 3) Git Commit 
 
@@ -22,7 +19,6 @@
 ##### *Important:* Git commit saves your changes only locally.
 
      git commit -m "your message"
-     
      
      
 #### 4) Git Push
