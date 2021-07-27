@@ -34,6 +34,14 @@
 ##### 6vi) To check your content
      cat abc.txt
 
+##### 7) Similarly Using Nano Text Editor
+     nano abc.txt
+  
+##### 7i) Changes in abc.txt 
+##### 7ii) press ctrl X
+##### 7iii) press y
+##### 7iv) press enter 
+##### 7v) cat abc.txt
 
 
 
