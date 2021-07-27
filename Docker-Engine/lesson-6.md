@@ -11,24 +11,24 @@
      
 # Explainations 
 
-#####  --name=my-app-container         
-####  Your Container Name
+##### Q1 --name=my-app-container         
+####  A1 Your Container Name
 
 
-##### /home/ahsanshaikh/My-App-Backup    
-#### Your Local Machine Path from root user to your desire folder My-App-Backup is your new folder where your container data will be saved 
+##### Q2 /home/ahsanshaikh/My-App-Backup    
+####  A2 Your Local Machine Path from root user to your desire folder My-App-Backup is your new folder where your container data will be saved 
 
 
-##### : 
-### semicolon giving purpose that your giving path completed 
+##### Q3 : 
+####  A3 semicolon giving purpose that your giving path completed 
 
 
-#### :/App-data
-### After Semicolon you create a folder inside Your Container  App-data is you folder name inside your container 
+##### Q4  :/App-data
+####  A4  After Semicolon you create a folder inside Your Container  App-data is you folder name inside your container 
 
 
-#### ahsansabir/my-application:latest
-### this is your complete image name
+##### Q5 ahsansabir/my-application:latest
+####  A4 this is your complete image name
 
 
 
