@@ -35,7 +35,7 @@
      docker container run -d  alpine:latest  
 
 #### 9) Publish port
-     docker container run -d -p 4000:80 alpine:latest  
+     docker container run -d -p 4000:80 alpine  
 
 #### 10) Custom container name (we use = or space both working same )
     docker container run -d --name=my_container -p 4000:80 alpine:latest  
