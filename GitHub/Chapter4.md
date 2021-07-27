@@ -53,12 +53,6 @@
 #### Finally, you can merge your feature branch into dev:
 
      git merge <branch-name>
-
-
-
-
-
-
      
   
      
