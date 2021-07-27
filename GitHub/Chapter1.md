@@ -1,6 +1,6 @@
 # Chapter 1
 
-#### 1) Install Git & Check Version 
+#### 1) Install Git & Checking Version 
 	git --version
 
 #### 2) Configure Git Only First Time
