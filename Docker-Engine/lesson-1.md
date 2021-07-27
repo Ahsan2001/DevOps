@@ -1,4 +1,4 @@
-### 1) Docker Installation command    
+### 1) Docker Installations command    
    
      sudo apt-get update
      sudo apt-get install docker-ce docker-ce-cli containerd.io
