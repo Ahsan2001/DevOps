@@ -1,0 +1,4 @@
+##  %APPDATA%
+##  %LOCALAPPDATA%
+##  %USERPROFILE%\
+##  %USERPROFILE%
