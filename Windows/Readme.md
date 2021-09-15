@@ -2,3 +2,4 @@
 ##  %LOCALAPPDATA%
 ##  %USERPROFILE%\
 ##  %USERPROFILE%
+##  %temp%
