@@ -11,7 +11,7 @@
 ## dir
 ## cd
 ## cd..
-## mkdir
+## mkdir ahsan
 ## md
 ## type nul > abc.txt
 ## ren abc.txt xyz.txt 
@@ -21,4 +21,6 @@
 ## move xyz.txt ahsan
 ## cls
 ## type xyz.txt
-## rmdir
+## rmdir ahsan
+## c/
+## c\
