@@ -1,5 +1,1 @@
-##  %APPDATA%
-##  %LOCALAPPDATA%
-##  %USERPROFILE%\
-##  %USERPROFILE%
-##  %temp%
+
