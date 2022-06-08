@@ -5,7 +5,7 @@
 
 ### 1) Change Branch to where you want to save another branch CODE 
 
-##### FOR EXAMPLE
+### FOR EXAMPLE
 ##### you want to shift your work on branch "main" , So first of all you go in main branch by using 
 ##### given Command
 
