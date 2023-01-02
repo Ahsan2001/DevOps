@@ -9,7 +9,7 @@
               3. Whether there are files staged, unstaged or untracked
               4. Whether there are files created, modified or deleted
 
-### Terminal Coammand
+### Terminal Command
 
 	git status
 	git log
