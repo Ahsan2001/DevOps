@@ -1,5 +1,10 @@
 # Chapter 1
 
+
+#### 0) Download Command Line Github
+	https://git-scm.com/downloads
+
+
 #### 1) Install Git & Checking Version 
 	git --version
 
