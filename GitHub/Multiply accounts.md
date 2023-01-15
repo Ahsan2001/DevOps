@@ -66,3 +66,32 @@ Use ssh keys and define host aliases in ssh config file (each alias for an accou
    ```
 
 Done! Goodluck!
+
+
+
+
+
+<!-- 
+
+
+Config File
+
+## Host office github.com
+####   HostName github.com
+####  IdentityFile ~/.ssh/id_ed25519_office
+
+## Host personal github.com
+####   HostName github.com
+####   IdentityFile ~/.ssh/id_ed25519_personal
+
+
+
+### Multiple github account 
+https://www.youtube.com/watch?v=vSeYsk4WYvg
+ -->
+
+
+
+
+
+
