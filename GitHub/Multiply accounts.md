@@ -68,11 +68,11 @@ Use ssh keys and define host aliases in ssh config file (each alias for an accou
 Done! Goodluck!
 
 
-# CMD COMMAND For generate SSH KEYS for different github account synchronize
+<!-- # CMD COMMAND For generate SSH KEYS for different github account synchronize
  #  ssh-keygen -t ed25519 -C "your_email@example.com"
   #                                     ^ 
   #                                     |
-  #                               Enter your github-email
+  #                               Enter your github-email -->
 
 <!-- 
 
